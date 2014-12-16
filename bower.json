@@ -1,0 +1,20 @@
+{
+  "name": "backbone-csrf",
+  "description": "A small, easy-to-use backbone module to apppend a csrf token to xhr requests.",
+  "keywords": ["csrf", "backbone"],
+  "authors": [
+    "Richard Castera <no@spam.org>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rcastera/Backbone-CSRF.git"
+  },
+  "version": "1.0.0",
+  "main": [
+    "dist/backbone-csrf.min.js"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "requirejs": "latest"
+  }
+}
